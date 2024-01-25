@@ -1,0 +1,53 @@
+* {
+  font-family: 'Barlow', sans-serif;
+  
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  margin: 0;
+  font-family: 'Barlow', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+h1{
+  color:#002EFF;
+  font-size: 3em;
+  font-weight: 100;
+
+}
+
+h2{
+  font-size: 1.2em;
+  color:#191919;
+  font-weight: 600;
+
+}
+
+h3{
+  font-size: 1.1em;
+  color:#191919;
+  font-weight: 600;
+
+}
+
+hr{
+  border: 1.2px solid #eeeeee;
+  border-radius: 4px;
+}
+
+.btn-round{
+  margin:10px;
+  padding:10px;
+  border: none;
+  outline: none;
+  background-color:blue;
+  border-radius: 20px;
+}
